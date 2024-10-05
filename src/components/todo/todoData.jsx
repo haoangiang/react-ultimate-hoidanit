@@ -5,7 +5,7 @@ const TodoData = (props) => {
     //     age: 25,
     //     data: {}
     // }
-    // const { name, age, data } = props;
+    const { name, age, data } = props;
     // const name = props.name;
     // const age = props.age;
     // const data = props.data;
